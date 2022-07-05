@@ -1,10 +1,10 @@
 # Data analysis
 - Document here the project: PinkFloydLyrics
 - Description: Project Description
-- Data Source:
-- Type of analysis:
+- Data Source: https://www.kaggle.com/datasets/joaorobson/pink-floyd-lyrics?resource=download
+- Type of analysis: NLP with LSTM and Word embedding
 
-Please document the project the better you can.
+# The goal of the project is to analyse every Pink Floyd lyrice, and then build a model that can return a new song based on user input of 2 key words.
 
 # Startup the project
 
