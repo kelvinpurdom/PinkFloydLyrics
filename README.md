@@ -4,7 +4,7 @@
 - Data Source: https://www.kaggle.com/datasets/joaorobson/pink-floyd-lyrics?resource=download
 - Type of analysis: NLP with LSTM and Word embedding
 
-# The goal of the project is to analyse every Pink Floyd lyrice, and then build a model that can return a new song based on user input of 2 key words.
+# The goal of the project is to analyse every Pink Floyd lyric, and then build a model that can return a new song based on user input of 2 key words.
 
 # Startup the project
 
