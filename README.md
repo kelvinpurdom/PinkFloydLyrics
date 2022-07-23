@@ -1,10 +1,14 @@
-# Data analysis
-- Document here the project: PinkFloydLyrics
-- Description: Project Description
+# Pink Floyd Lyric Creator
+
+![2039e921-0001-0004-0000-000001322211_w1200_r1 33_fpx44 98_fpy36 27](https://user-images.githubusercontent.com/96483815/180597959-521ca97a-bc45-4a2e-86f8-63a418888048.jpg)
+
+#### The goal of the project is to analyse every Pink Floyd lyric, and then build a model that can return a new song based on user input of 2 key words.
+
 - Data Source: https://www.kaggle.com/datasets/joaorobson/pink-floyd-lyrics?resource=download
+
 - Type of analysis: NLP with LSTM and Word embedding
 
-# The goal of the project is to analyse every Pink Floyd lyric, and then build a model that can return a new song based on user input of 2 key words.
+
 
 # Startup the project
 
