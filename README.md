@@ -2,7 +2,7 @@
 
 ![2039e921-0001-0004-0000-000001322211_w1200_r1 33_fpx44 98_fpy36 27](https://user-images.githubusercontent.com/96483815/180597959-521ca97a-bc45-4a2e-86f8-63a418888048.jpg)
 
-#### The goal of the project is to analyse every Pink Floyd lyric, and then build a model that can return a new song based on user input of 2 key words.
+#### The goal of the project is to analyse every Pink Floyd lyric, and then build a model that can return a new song based on user input of 2 key words. This is just a fun subject but I am learning so much already!
 
 - Data Source: https://www.kaggle.com/datasets/joaorobson/pink-floyd-lyrics?resource=download
 
