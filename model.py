@@ -1,13 +1,10 @@
 import keras
 from keras.layers import Embedding, LSTM, Dense, Dropout, Bidirectional
 from keras.preprocessing.text import Tokenizer
-from keras.preprocessing.sequence import pad_sequences
+from keras.utils import pad_sequences
 from keras.models import Sequential
 import pandas as pd
-import csv
-from sklearn.model_selection import train_test_split
 from keras.callbacks import ModelCheckpoint
-import regex as re
 import numpy as np
 from prediction import predict
 
