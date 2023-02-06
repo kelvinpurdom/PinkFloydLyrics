@@ -1,6 +1,6 @@
 import keras
 from keras.layers import Embedding, LSTM, Dense, Dropout, Bidirectional
-from keras.preprocessing.text import Tokenizer
+from keras.preprocessing import Tokenizer
 from keras.utils import pad_sequences
 from keras.models import Sequential
 import pandas as pd
