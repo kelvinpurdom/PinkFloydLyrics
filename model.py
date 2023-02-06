@@ -9,6 +9,7 @@ from sklearn.model_selection import train_test_split
 from keras.callbacks import ModelCheckpoint
 import regex as re
 import numpy as np
+from prediction import predict
 
 from keras.utils import np_utils
 import pickle
@@ -40,7 +41,7 @@ def make_lyrics(seed_text, next_words):
                 output_word = word
                 break
         seed_text += " " + output_word
-    #print(seed_text)
+    print(seed_text)
     return seed_text
 
-make_lyrics('I', 23)
+make_lyrics('I will', 10)
